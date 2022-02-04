@@ -1,0 +1,39 @@
+.container {
+    background-color: aqua;
+    margin: 5px;
+}
+
+.container-fluid {
+    margin: 5px;
+}
+
+#fila2 {
+    margin-top: 5px;
+}
+
+#columna1 {
+    background-color: red;
+}
+
+#columna2 {
+    background-color: blue;
+}
+
+#columna3 {
+    background-color: green;
+}
+
+#columna4 {
+    background-color: grey;
+}
+
+form {
+    border: black 1px solid;
+    margin: 3px;
+    padding: 20px;
+}
+
+.card-group {
+    padding: 10px;
+}
+
