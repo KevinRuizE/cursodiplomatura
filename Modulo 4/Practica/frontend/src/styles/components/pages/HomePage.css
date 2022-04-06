@@ -1,0 +1,38 @@
+.homeimg{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 1.5em;
+}
+
+.bienvenidos, .testimonios{
+    box-sizing: border-box;
+}
+
+.bienvenidos{
+    margin-left: 50px;
+    width: 69.7%;
+    padding-right: 2em;
+}
+
+.testimonios{
+    width: 25%;
+}
+
+.testimonio{
+    background-color: #ccc;
+    padding: 1em;
+}
+
+.testimonio .cita{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.4em;
+    display: block;
+}
+
+.testimonio .autor{
+    font-size: 0.8em;
+    text-align: center;
+    margin: 1em 0;
+    display: block;
+}
