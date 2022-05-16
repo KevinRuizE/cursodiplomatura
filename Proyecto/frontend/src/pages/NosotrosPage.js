@@ -26,8 +26,8 @@ const NosotrosPage = (props) => {
               </div>
               <div className="persona">
                   <img src="images/nosotros/nosotros2.jpg" alt=""/>
-                  <h5>Sebastian Rivero</h5>
-                  <h6>Gerente General</h6>
+                  <h5>Ian Ingenieri</h5>
+                  <h6>Contador</h6>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error aut qui harum autem consequatur
                       delectus repudiandae quos, est ipsa expedita, corporis nisi vel deleniti unde quo laborum
                       eligendi
@@ -35,8 +35,8 @@ const NosotrosPage = (props) => {
               </div>
               <div className="persona">
                   <img src="images/nosotros/nosotros3.jpg" alt=""/>
-                  <h5>Sebastian Rivero</h5>
-                  <h6>Gerente General</h6>
+                  <h5>Carlos Boccalon</h5>
+                  <h6>Proyectista</h6>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error aut qui harum autem consequatur
                       delectus repudiandae quos, est ipsa expedita, corporis nisi vel deleniti unde quo laborum
                       eligendi
@@ -44,8 +44,8 @@ const NosotrosPage = (props) => {
               </div>
               <div className="persona">
                   <img src="images/nosotros/nosotros4.jpg" alt=""/>
-                  <h5>Sebastian Rivero</h5>
-                  <h6>Gerente General</h6>
+                  <h5>Alejandro Rivero</h5>
+                  <h6>Gerente</h6>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error aut qui harum autem consequatur
                       delectus repudiandae quos, est ipsa expedita, corporis nisi vel deleniti unde quo laborum
                       eligendi
@@ -53,8 +53,8 @@ const NosotrosPage = (props) => {
               </div>
               <div className="persona">
                   <img src="images/nosotros/nosotros5.jpg" alt=""/>
-                  <h5>Sebastian Rivero</h5>
-                  <h6>Gerente General</h6>
+                  <h5>Sebastian Sosa</h5>
+                  <h6>Gerente</h6>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error aut qui harum autem consequatur
                       delectus repudiandae quos, est ipsa expedita, corporis nisi vel deleniti unde quo laborum
                       eligendi
